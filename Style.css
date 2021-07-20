@@ -1,0 +1,136 @@
+ body {
+
+    background-color:#909f97;
+ }
+ 
+ #header1 {
+background-color: #643348;
+text-align: center;
+box-shadow: 2px 3px 2px #656f69;
+ }
+ #table1index {
+margin-left: 550px;
+color: #909f97;
+text-shadow: 2px 3px 2px #452332;
+}
+li {
+padding: 8px;
+background-color:#643348;
+box-shadow:2px 3px 2px#656f69;
+}
+li:hover {
+   background-color:#70515e ;
+   }
+ul{
+
+list-style-type: none;
+}
+#nav1index {
+width: 25%;
+}
+
+#article1index{
+   float: right;
+   width: 70%;
+   text-align: center;
+}
+#article2index{
+   float: right;
+   width: 70%;
+   text-align: center;
+   margin-top: 50px;
+}
+#article3index{
+   float: right;
+   width: 70%;
+   text-align: center;
+   margin-top: 50px;
+   
+}
+#article4index{
+   float: right;
+   width: 70%;
+   text-align: center;
+   margin-top: 50px;
+  
+}
+#article5index{
+   float: right;
+   width: 70%;
+   text-align: center;
+   margin-top: 50px;
+   margin-bottom: 20px;
+  padding-left: 20px;
+}
+#h2firstindex {
+   text-shadow:2px 3px 2px#656f69
+
+}
+#h3secondindex {
+   text-shadow:2px 3px 2px#656f69;
+
+}
+#pfirstindex {
+text-shadow:2px 3px 2px#656f69;
+}
+#photo1971 {
+   box-shadow:2px 3px 2px#656f69;
+}
+#photo1981{
+   box-shadow:2px 3px 2px#656f69;
+}
+#photo1988{
+   box-shadow:2px 3px 2px#656f69;
+}
+#photo1993{
+   box-shadow:2px 3px 2px#656f69;
+}
+article{
+background-color:#643348 ;
+box-shadow: 4px 4px 2px #656f69;
+font-size: 18px;
+}
+a {
+   color: #656f69;
+}
+a:hover{
+   color: black;
+}
+#psecondindex {
+   text-align: left;
+   text-shadow:2px 3px 2px#656f69;
+}
+ /*Site Plan Page*/
+ #h2firstsiteplan{
+   text-shadow:2px 3px 2px#656f69;
+   text-align: center;
+   padding:20px;
+   border-bottom: 2px solid black;
+}
+#captioncapture1 {
+ text-align: left
+}
+#capture1, #capture2, #capture3, #capture4 {
+   box-shadow:2px 3px 2px#656f69;
+   margin-left: 20px;
+
+}
+#captioncapture1, #captioncapture2, #captioncapture3, #captioncapture4 {
+   text-shadow:2px 3px 2px#656f69
+}
+/*Form Page*/
+form {
+   padding: 20px;
+   text-align: center;
+   background-color: #643348;
+margin-left: auto;
+margin-right: auto;
+text-shadow:2px 2px 2px #656f69;
+font-size: large;
+box-shadow:3px 3px 2px#656f69;
+border: 2px solid black;
+margin-top: 50px;
+}
+* {
+   box-sizing: border-box;
+ }
